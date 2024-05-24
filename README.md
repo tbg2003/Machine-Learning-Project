@@ -62,10 +62,9 @@ Ensure you have Python and Jupyter installed. You can install the required packa
 pip install -r requirements.txt
 ```
 
-## To open the Jupyter notebooks:
+## To open the Jupyter notebooks:
 
 ```bash
-Copy code
 jupyter notebook cw_lu21864.ipynb
 ```
 
